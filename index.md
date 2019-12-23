@@ -7,7 +7,7 @@ keywords: something?
 
 Scott Ashworth is a Professor in the Harris School of Public Policy and the College at the University of Chicago. His research uses game theoretic models to understand political phenomena, with a specific focus on electoral accountability.
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)<br/>
+[curriculum vitae ![cv as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)<br/>
 
 
 ---

@@ -4,7 +4,7 @@ title: Research
 description: Scott Ashworth's research
 ---
 
-###Submitted Papers
+### Submitted Papers
 
 [Optimal Domestic Constraints in International Crises][audience], with [Kris Ramsay][kris].
 <!-- Under review at \textit{The American Journal of Political Science.} -->
@@ -15,7 +15,7 @@ Information and Incumbency, with [Ethan Bueno de Mesquita][ethan] and [Amanda Fr
 
 [advantageincumbentslides]:{{ BASE_PATH}}/pages/papers/advantageincumbentslides.pdf
 
-###Work in Progress###
+### Work in Progress
 
 _Theory and Credibility,_ with [Chris Berry][chris] and [Ethan Bueno de Mesquita][ethan].
 
@@ -27,7 +27,7 @@ Electorates vs.\ Voters, with [Anthony Fowler][anthony].
 
 Challengers as Monitors in Elections, with [Ken Shotts][ken].
 
-###Scholarly Publications###
+### Scholarly Publications
 
 [Delegation to an Overconfident Expert][communication], with [Greg Sasso][greg].
 (2019) _The Journal of Politics_ 81(2): 692--696.
@@ -76,7 +76,7 @@ Challengers as Monitors in Elections, with [Ken Shotts][ken].
 
 [Reputational Dynamics and Political Careers][reelect]. (2005) _Journal of Law, Economics, and Organization_ 21(2):441--466.  
 
-###Other Publications###
+### Other Publications
 
 [All Else Equal in Theory and Data (Big or Small)][bigdata], with [Chris Berry][chris] and [Ethan Bueno de Mesquita][ethan]. (2015) _PS: Political Science & Politics_ 48(1):89--94.
 
