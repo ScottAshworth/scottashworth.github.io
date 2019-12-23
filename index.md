@@ -35,8 +35,8 @@ Scott Ashworth is a Professor in the [Harris School of Public Policy][harris] an
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
+        <a href="../assets/ozzie.jpg">
+            <img src="../assets/ozzie.jpg"
                   title="Ozzie" alt="Ozzie"/></a>
         </div>
     </div>
