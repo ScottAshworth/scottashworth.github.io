@@ -4,7 +4,7 @@ title: Research
 description: Scott Ashworth's research
 ---
 
-###Submitted Papers###
+###Submitted Papers
 
 [Optimal Domestic Constraints in International Crises][audience], with [Kris Ramsay][kris].
 <!-- Under review at \textit{The American Journal of Political Science.} -->
