@@ -5,7 +5,10 @@ description: Scott Ashworth is professor in the Harris School and the College at
 keywords: something?
 ---
 
-Scott Ashworth is a Professor in the Harris School of Public Policy and the College at the University of Chicago. His research uses game theoretic models to understand political phenomena, with a specific focus on electoral accountability. He is currently Editor-in-Chief of *The Quarterly Journal of Political Science.*
+Scott Ashworth is a Professor in the Harris School of Public Policy and the College at the University of Chicago. His research uses game theoretic models to understand political phenomena, with a specific focus on electoral accountability. He is currently Editor-in-Chief of [*The Quarterly Journal of Political Science.*][qjps]
+
+[qjps]:http://www.nowpublishers.com/QJPS
+
 
 <!--
 [curriculum vitae ![cv as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)<br/> -->
