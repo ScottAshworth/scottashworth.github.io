@@ -20,7 +20,7 @@ Scott Ashworth is a Professor in the Harris School of Public Policy and the Coll
     <div class="row-fluid">
         <div class="span5">
             Scott Ashworth<br/>
-            Email: <sashwort@uchicago.edu><br/>
+            Email: <a href="mailto:sashwort@uchicago.edu">sashwort@uchicago.edu</a><br/>
         </div>
 
         <div class="span2">
