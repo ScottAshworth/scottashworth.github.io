@@ -5,7 +5,8 @@ description: Scott Ashworth is professor in the Harris School and the College at
 keywords: something?
 ---
 
-Scott Ashworth is a Professor in the [Harris School of Public Policy][harris] and the [College](college) at the [University of Chicago][uchicago]. His research uses game theoretic models to understand political phenomena, with a specific focus on electoral accountability. He is currently Editor-in-Chief of [*The Quarterly Journal of Political Science.*][qjps]
+Scott Ashworth is a Professor in the [Harris School of Public Policy][harris] and the [College](college) at the [University of Chicago][uchicago]. His research uses game theoretic models to understand political phenomena, with a specific focus on electoral accountability.
+<!-- He is currently Editor-in-Chief of [*The Quarterly Journal of Political Science.*][qjps] -->
 
 [harris]: http://harris.uchicago.edu/
 [college]: https://college.uchicago.edu
@@ -21,13 +22,15 @@ Scott Ashworth is a Professor in the [Harris School of Public Policy][harris] an
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name=" "></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            <!-- Scott Ashworth<br/> -->
-            <p><a href="mailto:sashwort@uchicago.edu">sashwort@uchicago.edu</a><br>
-            <a href="https://twitter.com/soashworth">@soashworth</a><br>
+            <p><a href="mailto:sashwort@uchicago.edu">sashwort@uchicago.edu</a><br />
+            <a href="https://twitter.com/soashworth">@soashworth</a></p>
+            <p>Editor in Chief<br />
+            <a href="http://www.nowpublishers.com/QJPS">Quarterly Journal of Political Science</a></p>
+            <p><a href="{{ BASE_PATH}}/assets/cv.pdf">cv</a><br />
             <a href="https://scholar.google.com/citations?user=ivrhIWIAAAAJ&amp;hl=en">Google Scholar</a></p>
         </div>
 
