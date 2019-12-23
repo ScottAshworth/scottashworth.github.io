@@ -22,7 +22,7 @@ Scott Ashworth is a Professor in the [Harris School of Public Policy][harris] an
 
 
 <div class="container">
-<h4><a name=" "></a>contact</h4>
+<!-- <h4><a name=" "></a>contact</h4> -->
 
     <div class="row-fluid">
         <div class="span5">
@@ -37,12 +37,12 @@ Scott Ashworth is a Professor in the [Harris School of Public Policy][harris] an
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Ozzie" alt="Ozzie"/></a>
         </div>
     </div>
 </div>
 
-<div class="navbar">
+<!-- <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/cv.pdf">cv</a></li>
@@ -50,4 +50,4 @@ Scott Ashworth is a Professor in the [Harris School of Public Policy][harris] an
           <li><a href="https://twitter.com/soashworth">Twitter (@soashworth)</a></li>
       </ul>
   </div>
-</div>
+</div> -->
